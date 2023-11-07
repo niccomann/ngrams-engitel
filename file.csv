@@ -1,0 +1,16 @@
+httprequest
+sesskey=pY1udtGZaa&info=core_session_time_remaining&nosessionupdate=true
+sesskey=pY1udtGZaa&info=core_session_time_remaining&nosessionupdate=true
+sesskey=pY1udtGZaa&info=core_session_time_remaining&nosessionupdate=true
+sesskey=pY1udtGZaa&info=core_session_time_remaining&nosessionupdate=true
+GET /search?query=' OR '1'='1' --
+"info=core_get_string,core_get_string&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22nextstep_sequence%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22tool_usertours%22%2C%22lang%22%3A%22en%22%7D%7D%2C%7B%22index%22%3A1%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22skip_tour%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22tool_usertours%22%2C%22lang%22%3A%22en%22%7D%7D%5D"
+info=core_output_load_template_with_dependencies&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_output_load_template_with_dependencies%22%2C%22args%22%3A%7B%22component%22%3A%22core%22%2C%22template%22%3A%22paged_content%22%2C%22themename%22%3A%22boost%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_get_string&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22pagedcontentnavigationactiveitem%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22core%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_output_load_template_with_dependencies&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_output_load_template_with_dependencies%22%2C%22args%22%3A%7B%22component%22%3A%22core%22%2C%22template%22%3A%22overlay_loading%22%2C%22themename%22%3A%22boost%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_output_load_template_with_dependencies&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_output_load_template_with_dependencies%22%2C%22args%22%3A%7B%22component%22%3A%22core_course%22%2C%22template%22%3A%22no-courses%22%2C%22themename%22%3A%22boost%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_get_string&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22cookiesenabled%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22core%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_get_string&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22cookiesenabled_help_html%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22core%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_get_string&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22ok%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22core%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+info=core_get_string&cachekey=1682347423&args=%5B%7B%22index%22%3A0%2C%22methodname%22%3A%22core_get_string%22%2C%22args%22%3A%7B%22stringid%22%3A%22changesmadereallygoaway%22%2C%22stringparams%22%3A%5B%5D%2C%22component%22%3A%22moodle%22%2C%22lang%22%3A%22en%22%7D%7D%5D
+sesskey=pY1udtGZaa&info=core_course_get_enrolled_courses_by_timeline_classification
